@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-[![Laravel Tests](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml/badge.svg?branch=main)](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml)
+[![Laravel Tests](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml)
 
 Project ini digunakan untuk belajar unit testing dan GitHub Actions di Laravel.
 
