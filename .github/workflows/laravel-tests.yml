@@ -49,13 +49,3 @@ jobs:
 
       - name: Run PHPUnit tests
         run: php artisan test
-
-services:
-  mysql:
-    image: mysql:8.0
-    env:
-      MYSQL_ROOT_PASSWORD: password
-      MYSQL_DATABASE: testing
-      MYSQL_USER: user
-      MYSQL_PASSWORD: password
-    ports: ['3306:3306']
