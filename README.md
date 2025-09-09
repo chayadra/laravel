@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Laravel Testing Project
+
+[![Laravel Tests](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml/badge.svg?branch=main)](https://github.com/chayadra/laravel/actions/workflows/laravel-tests.yml)
+
+Project ini digunakan untuk belajar unit testing dan GitHub Actions di Laravel.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
